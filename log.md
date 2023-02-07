@@ -3,7 +3,7 @@
 ### Day 1: February 7, 2022
 
 **Today's Progress**: I watched a Python tutorial for beginners and coded along with it. 
-I also watched 2 lessons of the ‘automate the boring stuff with python’ alongside the book format
+I also watched 2 lessons of the ‘automate the boring stuff with python’ alongside the book format.
 
 **Thoughts:** I’m really excited to use this knowledge in my daily life #softlife
 
