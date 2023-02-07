@@ -1,13 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 7, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I watched a Python tutorial for beginners and coded along with it. 
+I also watched 2 lessons of the ‘automate the boring stuff with python’ alongside the book format
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I’m really excited to use this knowledge in my daily life #softlife
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
+1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+2. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+3. [Automate the Boring Stuff Book](https://automatetheboringstuff.com/2e/chapter0/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
