@@ -24,12 +24,12 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 3. [Edabit](https://edabit.com/challenges)
 4. [HackerRank](https://www.hackerrank.com/domains/python)
 
-### Day 1: June 27, Monday
+### Day 3: February 9, 2023 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through a few lessons in the Automate the Boring Stuff with Python playlist, looked into Angela Yu's 100 Days of Code course and did a few Python exercises on edabit.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I'm really digging Angela's Yu's 100 days of code course. I'm considering starting it but after I finish watch the other youtube tutorials in my study plan. I found the python exercises on edabit really easy, which really boosted my confidence.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+2. [Edabit](https://edabit.com/challenges)
