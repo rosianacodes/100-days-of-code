@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 7, 2022
+### Day 1: February 7, 2023
 
 **Today's Progress**: I watched a Python tutorial for beginners and coded along with it. 
 I also watched 2 lessons of the ‘automate the boring stuff with python’ alongside the book format.
@@ -12,15 +12,17 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 2. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 3. [Automate the Boring Stuff Book](https://automatetheboringstuff.com/2e/chapter0/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 8, 2023 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I continued watching the Python tutorial. I also did a few Python exercises on Exercism, Edabit and HackerRank. I did this to find the platform I enjoy the most and therefore want to commit to. Edabit ended up being the platform that won me over.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I'm enjoying the python tutorial, it's very easy to understand. However, I did struggle with some of the exercises on HackerRank. HackerRank really had my brain scrambling. So I'm thinking of revisiting it when I gain a little more confidence with Python and I'll just focus on Edabit because it is more beginner friendly for me.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link(s) to work**: 
+1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+2. [Exercism](https://exercism.org/tracks/python/exercises)
+3. [Edabit](https://edabit.com/challenges)
+4. [HackerRank](https://www.hackerrank.com/domains/python)
 
 ### Day 1: June 27, Monday
 
