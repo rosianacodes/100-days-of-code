@@ -38,7 +38,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Today's Progress:** I learned about while loops, break statement and contiue statements. I also did a few python exercises.
 
-**Thoughts:** I was really tired and found myself falling alseep through the python exercises but I'm proud of myself for sticking to this commitment to myself no matter how tired I am. 
+**Thoughts:** I was really tired and found myself falling alseep through the python exercises but I'm proud of myself for sticking to this commitment no matter how tired I am. 
 
 **Link(s) to work:**
 1. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
