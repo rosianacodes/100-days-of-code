@@ -31,5 +31,15 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts** I'm really digging Angela's Yu's 100 days of code course. I'm considering starting it but after I finish watch the other youtube tutorials in my study plan. I found the python exercises on edabit really easy, which really boosted my confidence.
 
 **Link(s) to work**
-1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+1. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+2. [Edabit](https://edabit.com/challenges)
+
+### Day 4: February 10, 2023 
+
+**Today's Progress**: I learned about while loops, break statement and contiue statements. I also did a few python exercises.
+
+**Thoughts** I was really tired and found myself falling alseep through the python exercises but I'm proud of myself for sticking to this commitment to myself no matter how tired I am. 
+
+**Link(s) to work**
+1. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 2. [Edabit](https://edabit.com/challenges)
