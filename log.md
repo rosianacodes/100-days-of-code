@@ -52,3 +52,11 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
 2. [CS50 Python Lecture](https://www.youtube.com/watch?v=mvlTSMUNQN4&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH&index=8&t=185s)
 4. [HackerRank](https://www.hackerrank.com/domains/python)
+
+### Day 6: February 12, 2023 
+
+**Today's Progress:** Today I worked on some of Day 1 of Angela Yu's 100 Days of Python Course covering printing, inputting, commenting, name error, syntax error, debugging ans string manipulation.  
+
+**Thoughts:** Even though I'm already familiar with all the topics covered. I really enjoyed how interactive it was, the debugging exercise was favourite.
+
+
