@@ -43,3 +43,12 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Link(s) to work:**
 1. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 2. [Edabit](https://edabit.com/challenges)
+
+### Day 5: February 11, 2023 
+
+**Today's Progress:** I created a mad libs game in python with Mike Dane's Tutorial. Started watching the CS50 Python Lecture (the lecturer is really amazing, so engaging and easy to understand). I also did a few python exercises on HackerRank.
+
+**Link(s) to work:**
+1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+2. [CS50 Python Lecture](https://www.youtube.com/watch?v=mvlTSMUNQN4&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH&index=8&t=185s)
+4. [HackerRank](https://www.hackerrank.com/domains/python)
