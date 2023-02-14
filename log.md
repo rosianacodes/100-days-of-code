@@ -67,6 +67,37 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
 
+### Day 8: February 14, 2023 
+
+**Today's Progress:** I finished off the freecodecamp survey form using HTML, that I started a while ago. I'm glad I finally have that ticked off now
+
+**Thoughts:** I decided to focus on HTML today as I feel like I hadn't touched it in a while and I'm glad I did because it was a great refresher for my mind. I prepared myself to start the 100devs bootcamp as I feel like I'm not confident in my front end skills, I'm starting to feel more confident in my back end skills because I'm spendindg more time on 'her'. So I think it's time I'm fair and treat back-end and front-end equally. Not sure how I'm going to do this maybe alternate between front end and python every other day or 2 days or weeks. I think I'm edging towards just doing what I feel like on the day.Shout out to my emotional authority.
+
+1.[freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+
+### Day 9: February 15, 2023 
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+1.
+
+### Day 10: February 16, 2023 
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+1.
+
+### Day 11: February 17, 2023 
+
+**Today's Progress:** 
+
+**Thoughts:**
+
+1.
 
 
 
