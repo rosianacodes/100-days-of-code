@@ -55,8 +55,18 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 ### Day 6: February 12, 2023 
 
-**Today's Progress:** Today I worked on some of Day 1 of Angela Yu's 100 Days of Python Course covering printing, inputting, commenting, name error, syntax error, debugging ans string manipulation.  
+**Today's Progress:** Today I worked on some of Day 1 of Angela Yu's 100 Days of Python Course covering printing, inputting, commenting, name error, syntax error, debugging and string manipulation.  
 
 **Thoughts:** Even though I'm already familiar with all the topics covered. I really enjoyed how interactive it was, the debugging exercise was favourite.
+
+1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
+
+### Day 7: February 13, 2023 
+
+**Today's Progress:** Today I finished off Day 1 of Angela Yu's 100 Days of Python Course, I created a mini band name generaotor project using input and print function, string manipulation, variables and next line.  
+
+1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
+
+
 
 
