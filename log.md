@@ -75,13 +75,12 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 1.[freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
-### Day 9: February 15, 2023 
+### Day 9: February 16, 2023 
 
-**Today's Progress:** 
+**Today's Progress:**  Today I worked on some of Day 2 of Angela Yu's 100 Days of Python Course covering data types and type conversions. 
 
-**Thoughts:**
+**Thoughts:** I am so tired, kept falling asleep. So I kept my session very short. Hopefully tomorrow I'll have more energy.
 
-1.
 
 ### Day 10: February 16, 2023 
 
