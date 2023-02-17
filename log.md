@@ -71,7 +71,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Today's Progress:** I finished off the freecodecamp survey form using HTML, that I started a while ago. I'm glad I finally have that ticked off now
 
-**Thoughts:** I decided to focus on HTML today as I feel like I hadn't touched it in a while and I'm glad I did because it was a great refresher for my mind. I prepared myself to start the 100devs bootcamp as I feel like I'm not confident in my front end skills, I'm starting to feel more confident in my back end skills because I'm spendindg more time on 'her'. So I think it's time I'm fair and treat back-end and front-end equally. Not sure how I'm going to do this maybe alternate between front end and python every other day or 2 days or weeks. I think I'm edging towards just doing what I feel like on the day.Shout out to my emotional authority.
+**Thoughts:** I decided to focus on HTML today as I feel like I hadn't touched it in a while and I'm glad I did because it was a great refresher for my mind. I prepared myself to start the 100devs bootcamp as I feel like I'm not confident in my front end skills, I'm starting to feel more confident in my back end skills because I'm spending more time on 'her'. So I think it's time I'm fair and treat back-end and front-end equally. Not sure how I'm going to do this maybe alternate between front end and python every other day or 2 days or weeks. I think I'm edging towards just doing what I feel like on the day.Shout out to my emotional authority.
 
 1.[freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
@@ -82,13 +82,12 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** I am so tired, kept falling asleep. So I kept my session very short. Hopefully tomorrow I'll have more energy.
 
 
-### Day 10: February 16, 2023 
+### Day 10: February 17, 2023 
 
-**Today's Progress:** 
+**Today's Progress:** Completed Day 2 of Angela Yu's 100 Days of Python Course. For today's project I made a tip calculator.
 
-**Thoughts:**
+**Thoughts:** I really enjoyed creating this project, it's interesting to see how python is used to make our lives easier.
 
-1.
 
 ### Day 11: February 17, 2023 
 
