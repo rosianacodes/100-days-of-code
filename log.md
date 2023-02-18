@@ -89,11 +89,11 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** I really enjoyed creating this project, it's interesting to see how python is used to make our lives easier.
 
 
-### Day 11: February 17, 2023 
+### Day 11: February 18, 2023 
 
-**Today's Progress:** 
+**Today's Progress:** Worked on conditional statements with Day 3 of Angela Yu's 100 Days of Python Course.
 
-**Thoughts:**
+**Thoughts:** I'm really falling in love with this course, even though some of the coding challenges take me a while to do. I feel like I'm really understanding the topics because I'm putting everything I learn into practice. I can't wait to see my progress over the next 100 days. I know it's going to be amazing. I really want to start watching the 100devs bootcamp because I don't feel as confident in my front end skills. My back-end skills are deffo taking the lead but I just think that may be becasue I've been spending more time doing it. I'm kinda considering software engineering now becasue I'm actually enjoying it but I want to give front end an equal chance before making up my mind or I can just be a full stack developer.
 
 1.
 
