@@ -100,5 +100,9 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Today's Progress:** I solved a python coding exercise and started watching the 100devs introduction video.
 
+### Day 13: February 20, 2023 
+
+**Today's Progress:** I learned about bootstrap and completed the HTML and CSS for my python project.
+**Thoughts:** All this time I thought bootstrap was a complex framework but it seems way easier than I initially thought. It actually makes life easier.
 
 
