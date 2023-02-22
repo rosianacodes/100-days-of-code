@@ -139,7 +139,9 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Today's Progress:** 
 
-**Thoughts:** I'm so happy I fixed the hamburger icon issue from yesterday with the help of my instructor Tim. The issue was... 
+**Thoughts:** I'm so happy I fixed the hamburger icon issue from yesterday with the help of my instructor Tim. The issue was material-icons link needed tp be added in the head (<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">) and jQuery script needed to be added at the bottom of the body tag but above the CDN Js Script and my Js Script(<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>)
+
+ 
 
 **Link(s) to work:**
 1. 
