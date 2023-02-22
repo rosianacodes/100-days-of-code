@@ -139,7 +139,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Today's Progress:** 
 
-**Thoughts:** I'm so happy Ifixed the hamburger icon issue from yesterday with the help of my instructor Tim. The issue was... 
+**Thoughts:** I'm so happy I fixed the hamburger icon issue from yesterday with the help of my instructor Tim. The issue was... 
 
 **Link(s) to work:**
 1. 
