@@ -115,7 +115,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 ### Day 12: February 19, 2023 
 
-**Today's Progress:** I solved a python coding exercise and started watching the 100devs introduction video.
+**Today's Progress:** I solved a python coding exercise on Angela Yu's 100 Days of Python Course and started watching the 100devs introduction video.
 
 
 ### Day 13: February 20, 2023 
@@ -133,6 +133,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Link(s) to work:**
 1. [Learn MaterializeCSS and create a new portfolio](https://www.youtube.com/playlist?list=PLx0T51ydRO_4gBFWzI9MIg53dG1pWfWOp)
+
 
 ### Day 15: February 22, 2023 
 
