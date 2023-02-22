@@ -12,6 +12,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 2. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 3. [Automate the Boring Stuff Book](https://automatetheboringstuff.com/2e/chapter0/)
 
+
 ### Day 2: February 8, 2023 
 
 **Today's Progress:** I continued watching the Python tutorial. I also did a few Python exercises on Exercism, Edabit and HackerRank. I did this to find the platform I enjoy the most and therefore want to commit to. Edabit ended up being the platform that won me over.
@@ -24,6 +25,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 3. [Edabit](https://edabit.com/challenges)
 4. [HackerRank](https://www.hackerrank.com/domains/python)
 
+
 ### Day 3: February 9, 2023 
 
 **Today's Progress:** I've gone through a few lessons in the Automate the Boring Stuff with Python playlist, looked into Angela Yu's 100 Days of Code course and did a few Python exercises on edabit.
@@ -33,6 +35,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Link(s) to work:**
 1. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 2. [Edabit](https://edabit.com/challenges)
+
 
 ### Day 4: February 10, 2023 
 
@@ -44,6 +47,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 1. [Automate the Boring Stuff Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 2. [Edabit](https://edabit.com/challenges)
 
+
 ### Day 5: February 11, 2023 
 
 **Today's Progress:** I created a mad libs game in python with Mike Dane's Tutorial. Started watching the CS50 Python Lecture (the lecturer is really amazing, so engaging and easy to understand). I also did a few python exercises on HackerRank.
@@ -53,19 +57,24 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 2. [CS50 Python Lecture](https://www.youtube.com/watch?v=mvlTSMUNQN4&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH&index=8&t=185s)
 4. [HackerRank](https://www.hackerrank.com/domains/python)
 
+
 ### Day 6: February 12, 2023 
 
 **Today's Progress:** Today I worked on some of Day 1 of Angela Yu's 100 Days of Python Course covering printing, inputting, commenting, name error, syntax error, debugging and string manipulation.  
 
 **Thoughts:** Even though I'm already familiar with all the topics covered. I really enjoyed how interactive it was, the debugging exercise was favourite.
 
+**Link(s) to work:**
 1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
+
 
 ### Day 7: February 13, 2023 
 
 **Today's Progress:** Today I finished Day 1 of Angela Yu's 100 Days of Python Course, I created a mini band name generator project using input and print function, string manipulation, variables and next line.  
 
+**Link(s) to work:**
 1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
+
 
 ### Day 8: February 14, 2023 
 
@@ -73,7 +82,9 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Thoughts:** I decided to focus on HTML today as I feel like I hadn't touched it in a while and I'm glad I did because it was a great refresher for my mind. I prepared myself to start the 100devs bootcamp as I feel like I'm not confident in my front end skills, I'm starting to feel more confident in my back end skills because I'm spending more time on 'her'. So I think it's time I'm fair and treat back-end and front-end equally. Not sure how I'm going to do this maybe alternate between front end and python every other day or 2 days or weeks. I think I'm edging towards just doing what I feel like on the day.Shout out to my emotional authority.
 
+**Link(s) to work:**
 1.[freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+
 
 ### Day 9: February 16, 2023 
 
@@ -81,12 +92,18 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Thoughts:** I am so tired, kept falling asleep. So I kept my session very short. Hopefully tomorrow I'll have more energy.
 
+**Link(s) to work:**
+1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
+
 
 ### Day 10: February 17, 2023 
 
 **Today's Progress:** Completed Day 2 of Angela Yu's 100 Days of Python Course. For today's project I made a tip calculator.
 
 **Thoughts:** I really enjoyed creating this project, it's interesting to see how python is used to make our lives easier.
+
+**Link(s) to work:**
+1. [Angela Yu's 100 Days of Python Course](https://mega.nz/folder/zgcUAbCR#akYyjryy8YBMikLvo8EGyQ/folder/D10ECIzb) 
 
 
 ### Day 11: February 18, 2023 
@@ -100,9 +117,28 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Today's Progress:** I solved a python coding exercise and started watching the 100devs introduction video.
 
+
 ### Day 13: February 20, 2023 
 
-**Today's Progress:** I learned about bootstrap and completed the HTML and CSS for my python project.
+**Today's Progress:** I learned about materialize, bootstrap and completed the HTML and CSS for my films database python project.
+
 **Thoughts:** All this time I thought bootstrap was a complex framework but it seems way easier than I initially thought. It actually makes life easier.
 
 
+### Day 14: February 21, 2023 
+
+**Today's Progress:** I created a nav bar for my portfolio with the help of a 'Learn MaterializeCSS and create a new portfolio' playlist (part 1 and 2 videos).
+
+**Thoughts:** I got stuck on how to get the hamburger icon to show up in the nav bar for mobile devices or when the page size is shrunk horizontally. It is showing 'menu' when page size decreases instead of the hamburger icon. The 'menu' link is also showing the slide-out page of navigation links as it is supposed to.
+
+**Link(s) to work:**
+1. [Learn MaterializeCSS and create a new portfolio](https://www.youtube.com/playlist?list=PLx0T51ydRO_4gBFWzI9MIg53dG1pWfWOp)
+
+### Day 15: February 22, 2023 
+
+**Today's Progress:** 
+
+**Thoughts:** I'm so happy Ifixed the hamburger icon issue from yesterday with the help of my instructor Tim. The issue was... 
+
+**Link(s) to work:**
+1. 
