@@ -55,7 +55,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Link(s) to work:**
 1. [Python for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
 2. [CS50 Python Lecture](https://www.youtube.com/watch?v=mvlTSMUNQN4&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH&index=8&t=185s)
-4. [HackerRank](https://www.hackerrank.com/domains/python)
+3. [HackerRank](https://www.hackerrank.com/domains/python)
 
 
 ### Day 6: February 12, 2023 
@@ -83,7 +83,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** I decided to focus on HTML today as I feel like I hadn't touched it in a while and I'm glad I did because it was a great refresher for my mind. I prepared myself to start the 100devs bootcamp as I feel like I'm not confident in my front end skills, I'm starting to feel more confident in my back end skills because I'm spending more time on 'her'. So I think it's time I'm fair and treat back-end and front-end equally. Not sure how I'm going to do this maybe alternate between front end and python every other day or 2 days or weeks. I think I'm edging towards just doing what I feel like on the day.Shout out to my emotional authority.
 
 **Link(s) to work:**
-1.[freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+1. [freeCodeCamp Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
 
 ### Day 9: February 16, 2023 
