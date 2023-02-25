@@ -158,7 +158,7 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Today's Progress:** I worked on building a website using HTML, CSS and Javascript.
 
 **Link(s) to work:**
-1.[Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723)
+1. [Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723)
 
 
 ### Day 18: February 25, 2023 
@@ -168,4 +168,4 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** This portfolio project has really consumed my time for the last past days, can't wait to finish it.
 
 **Link(s) to work:**
-1.[Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723) 
+1. [Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723) 
