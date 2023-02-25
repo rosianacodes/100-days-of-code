@@ -137,11 +137,35 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 ### Day 15: February 22, 2023 
 
-**Today's Progress:** 
+**Today's Progress:** I created a nav bar for my website with the help of a 'Learn MaterializeCSS and create a new portfolio' playlist. 
 
 **Thoughts:** I'm so happy I fixed the hamburger icon issue from yesterday with the help of my instructor Tim. The issue was material-icons link needed tp be added in the head (<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">) and jQuery script needed to be added at the bottom of the body tag but above the CDN Js Script and my Js Script(<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>)
 
+**Link(s) to work:**
+1. [Learn MaterializeCSS and create a new portfolio](https://www.youtube.com/playlist?list=PLx0T51ydRO_4gBFWzI9MIg53dG1pWfWOp)
+
+
+### Day 16: February 23, 2023 
+
+**Today's Progress:** I created the hero section for my website with the help of a 'Learn MaterializeCSS and create a new portfolio' playlist. 
  
+**Link(s) to work:**
+1. [Learn MaterializeCSS and create a new portfolio](https://www.youtube.com/playlist?list=PLx0T51ydRO_4gBFWzI9MIg53dG1pWfWOp)
+
+
+### Day 17: February 24, 2023 
+
+**Today's Progress:** I worked on building a website using HTML, CSS and Javascript.
 
 **Link(s) to work:**
-1. 
+1.[Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723)
+
+
+### Day 18: February 25, 2023 
+
+**Today's Progress:** I worked on building a website using HTML, CSS and Javascript.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+1.[Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723) 
