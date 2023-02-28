@@ -170,8 +170,6 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Link(s) to work:**
 1. [Portfolio Website Tutorial](https://www.youtube.com/watch?v=xV7S8BhIeBo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=xV7S8BhIeBo&t=723) 
 
-723)
-
 
 ### Day 19: February 26, 2023 
 
