@@ -182,3 +182,9 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Today's Progress:** I completed my portfolio website using HTML, CSS and Javascript.
 
 **Thoughts:** This took me the whole day (about 10 hours), it was challenging especially at the end when I didn't know how to host the website on one.com and with the time constraint on me, I decided to get a link from github pages but then the css wasn't loading on the webpage so that took quite abit of trial and error to fix. I believe the issue was either moving the css down at the bottom of the head tag instead of being at the top or it was add the type of css file in the code (type="text/css). It feels so good to be done with this project!
+
+### Day 21: March 1, 2023 
+
+**Today's Progress:** Decided to continue watching class 1 of #100devs.
+
+**Thoughts:** I was really tired so I just decided to do something light today.
