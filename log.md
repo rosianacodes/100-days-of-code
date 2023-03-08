@@ -188,3 +188,11 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Today's Progress:** Decided to continue watching class 1 of #100devs.
 
 **Thoughts:** I was really tired so I just decided to do something light today.
+
+### Day 22: March 8, 2023 
+
+**Today's Progress:** Continued watching class 1 of #100devs.
+
+**Thoughts:** I have taken a whole week off from 100daysofcode but I really feel like I need the break. I'm feeling better now I'm looking forward to moving forward with my journey. I learnt about how to learn with active recall and spaced repitition. I also learned about the importance of networking.
+
+
