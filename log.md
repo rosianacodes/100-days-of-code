@@ -196,3 +196,14 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** I have taken a whole week off from 100daysofcode but I really feel like I need the break. I'm feeling better now I'm looking forward to moving forward with my journey. I learnt about how to learn with active recall and spaced repitition. I also learned about the importance of networking.
 
 
+### Day 23: March 12, 2023 
+
+**Today's Progress:** Watched class 1 of #100devs.
+
+
+### Day 24: March 13, 2023 
+
+**Today's Progress:** Finished watching class 1 of #100devs, made anki flashcards on class 1 notes.
+
+**Thoughts:** I learned how to learn and how to take notes effectively, I plan on using anki flashcards daily as spaced repetition and active recall are the most effective study methods. I also learned about VPN, ISP, Server and Client.
+
