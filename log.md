@@ -207,3 +207,68 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 
 **Thoughts:** I learned how to learn and how to take notes effectively, I plan on using anki flashcards daily as spaced repetition and active recall are the most effective study methods. I also learned about VPN, ISP, Server and Client.
 
+
+### Day 25: March 23, 2023 
+
+**Today's Progress:** Worked on Day 3 on Angela Yu's 100 Days of Python Course working on else, if and elif statements.
+
+**Thoughts:** I can't believe it's been 10 days since I made my last log, I'm feeling refreshed after my break and I'm ready to commit 1 hour every day no matter how tired I am. I will fall asleep coding if that's what it takes. It was really refreshing going over else, if and elif statements.
+
+
+### Day 26: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 27: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 28: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 29: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 30: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 31: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 32: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+### Day 33: 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
+
