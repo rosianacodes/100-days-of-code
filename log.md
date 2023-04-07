@@ -215,11 +215,11 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** I can't believe it's been 10 days since I made my last log, I'm feeling refreshed after my break and I'm ready to commit 1 hour every day no matter how tired I am. I will fall asleep coding if that's what it takes. It was really refreshing going over else, if and elif statements.
 
 
-### Day 26: 
+### Day 26: April 7, 2023
 
-**Today's Progress:**
+**Today's Progress:** Watched a figma tutorial and played aroung with the figma website. I also started watching class 2 of #100devs
 
-**Thoughts:** 
+**Thoughts:** I'm learning figma to make a wireframe for a project I'm working on.
 
 
 ### Day 27: 
