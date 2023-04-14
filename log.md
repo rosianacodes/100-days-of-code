@@ -222,11 +222,12 @@ I also watched 2 lessons of the ‘automate the boring stuff with python’ alon
 **Thoughts:** I'm learning figma to make a wireframe for a project I'm working on.
 
 
-### Day 27: 
+### Day 27: April 14, 2023
 
-**Today's Progress:**
+**Today's Progress:** Watched class 2 of #100Devs #catchupcrew.
+Completed HTMl tags coding exercise for a Brownie Recipe Website
 
-**Thoughts:** 
+**Thoughts:** I haven't been the most consistent with 100daysofCode but I'm hoping to change that. I really enjoyed learning today.
 
 
 ### Day 28: 
