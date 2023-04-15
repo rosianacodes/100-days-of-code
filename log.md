@@ -230,11 +230,12 @@ Completed HTMl tags coding exercise for a Brownie Recipe Website
 **Thoughts:** I haven't been the most consistent with 100daysofCode but I'm hoping to change that. I really enjoyed learning today.
 
 
-### Day 28: 
+### Day 28: April 15, 2023
 
-**Today's Progress:**
+**Today's Progress:** Did some of the Learning How to Learn Course learning about 'Focused versus Diffused Thinking'
+Did some active recall for class 2 of #100DaysOfCode #catchupcrew
 
-**Thoughts:** 
+**Thoughts:** I learned about the importance of taking breaks when learning something that is hard and pomodoro is the perfect method for this as there are consistent breaks so it's good to know that I can continue the habit of watching study with me videos in my software development career.
 
 
 ### Day 29: 
