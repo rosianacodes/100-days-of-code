@@ -238,11 +238,9 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Thoughts:** I learned about the importance of taking breaks when learning something that is hard and pomodoro is the perfect method for this as there are consistent breaks so it's good to know that I can continue the habit of watching study with me videos in my software development career.
 
 
-### Day 29: 
+### Day 29: April 23, 2023
 
-**Today's Progress:**
-
-**Thoughts:** 
+**Today's Progress:** Watched class 2 of #100Devs #catchupcrew. Went through akni flashcards. Did a coding challenge on codewars.
 
 
 ### Day 30: 
