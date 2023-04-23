@@ -240,7 +240,7 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 
 ### Day 29: April 23, 2023
 
-**Today's Progress:** Watched class 3 of #100Devs #catchupcrew. Went through akni flashcards. Did a coding challenge on codewars.
+**Today's Progress:** Watched class 3 of #100Devs #catchupcrew. Went through anki flashcards. Did a coding challenge on codewars.
 
 
 ### Day 30: 
