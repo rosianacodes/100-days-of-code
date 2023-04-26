@@ -243,11 +243,11 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Today's Progress:** Watched class 3 of #100Devs #catchupcrew. Went through anki flashcards. Did a coding challenge on codewars.
 
 
-### Day 30: 
+### Day 30: April 26, 2023
 
-**Today's Progress:**
+**Today's Progress:** Started Modern JavaScript Course on Udemy to brush up on my JavaScript skills. Made some anki flashcards. 
 
-**Thoughts:** 
+**Thoughts:** I decided I want to focus on JS especially how I'm practicing coding tests so I plan to come back to 100Devs after I finish this course and work on my codewars questions.
 
 
 ### Day 31: 
