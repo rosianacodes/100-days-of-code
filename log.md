@@ -250,9 +250,9 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Thoughts:** I decided I want to focus on JS especially how I'm practicing coding tests so I plan to come back to 100Devs after I finish this course and work on my codewars questions.
 
 
-### Day 31: 
+### Day 31: April 27, 2023
 
-**Today's Progress:**
+**Today's Progress:** Watch some more videos from the Modern JavaScript Course.
 
 **Thoughts:** 
 
