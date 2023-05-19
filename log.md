@@ -255,7 +255,7 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Today's Progress:** Watch some more videos from the Modern JavaScript Course.
 
 
-### Day 32: May 29, 2023
+### Day 32: May 19, 2023
 
 **Today's Progress:** Class 3 of #100Devs #catchupcrew
 
