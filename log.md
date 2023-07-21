@@ -266,8 +266,16 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 
 **Thoughts:** I learnt what a modal is which was really interesting.
 
+
 **Link(s) to work:** 
 1. [Make Your Site Lightning Fast With Responsive Images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
 2. [Create A Responsive Popup Image Gallery Using HTML CSS And Vanilla Javascript](https://www.youtube.com/watch?v=QghhoJBdw7A)
+
+
+**Today's Progress**: class 4 of 100 Devs 
+
+**Thoughts:** Proud of myself for coding today because I’m on the verge of sleeping
+
+**Link(s) to work:** https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4&t=879s
 
 
