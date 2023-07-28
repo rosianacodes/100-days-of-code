@@ -272,6 +272,7 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 2. [Create A Responsive Popup Image Gallery Using HTML CSS And Vanilla Javascript](https://www.youtube.com/watch?v=QghhoJBdw7A)
 
 
+### Day 34: 
 **Today's Progress**: class 4 of 100 Devs 
 
 **Thoughts:** Proud of myself for coding today because I’m on the verge of sleeping
@@ -279,3 +280,8 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Link(s) to work:** https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4&t=879s
 
 
+### Day 35: 
+
+**Today's Progress**: watched 100devs class 4 focusing on css 
+
+**Link(s) to work:** https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4&t=879s
