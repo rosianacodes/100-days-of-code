@@ -288,7 +288,12 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 
 ### Day 36: 
 
-**Today's Progress**: started a new project
+**Today's Progress**: started a new project 
 
 **Thoughts:** I'm happy I finally got around to starting the code for this project
+
+### Day 37: 
+
+**Today's Progress**: HTML code for my project and 100devs video
+
 
