@@ -285,3 +285,10 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Today's Progress**: watched 100devs class 4 focusing on css 
 
 **Link(s) to work:** https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4&t=879s
+
+### Day 36: 
+
+**Today's Progress**:started a new project
+
+**Thoughts:** I'm happy I finally got around to starting the code for this project
+
