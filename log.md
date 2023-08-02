@@ -260,7 +260,7 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Today's Progress:** Class 3 of #100Devs #catchupcrew
 
 
-### Day 33: 
+### Day 33: Jul 19, 2023 
 
 **Today's Progress**: responsive images and creating a modal to view images using HTML and CSS
 
@@ -272,7 +272,8 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 2. [Create A Responsive Popup Image Gallery Using HTML CSS And Vanilla Javascript](https://www.youtube.com/watch?v=QghhoJBdw7A)
 
 
-### Day 34: 
+### Day 34: Jul 21, 2023 
+
 **Today's Progress**: class 4 of 100 Devs 
 
 **Thoughts:** Proud of myself for coding today because I’m on the verge of sleeping
@@ -280,20 +281,67 @@ Did some active recall for class 2 of #100Devs #catchupcrew
 **Link(s) to work:** https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4&t=879s
 
 
-### Day 35: 
+### Day 35: Jul 28, 2023 
 
 **Today's Progress**: watched 100devs class 4 focusing on css 
 
 **Link(s) to work:** https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4&t=879s
 
-### Day 36: 
+
+### Day 36: Jul 31, 2023 
 
 **Today's Progress**: started a new project 
 
 **Thoughts:** I'm happy I finally got around to starting the code for this project
 
-### Day 37: 
+
+### Day 37: Aug 1, 2023 
 
 **Today's Progress**: HTML code for my project and 100devs video
+
+
+### Day 38: Aug 2, 2023
+
+**Today's Progress:** Reading Shay Howe: Learn to Code and making anki flashcards.
+
+**Thoughts:** Making flashcards really helps me retain information better and understand it instead of passively reading.
+
+**Link(s) to work:** https://learn.shayhowe.com/html-css/
+
+
+### Day 39: 
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+
+### Day 40: 
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+
+### Day 41: 
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+
+### Day 42: 
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
 
 
